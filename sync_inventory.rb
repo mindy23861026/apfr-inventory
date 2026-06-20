@@ -568,7 +568,7 @@ SCENT_OVERRIDES.each do |scent, info|
 end
 
 payload = {
-  updatedAt: Time.now.strftime("%Y-%m-%d %H:%M"),
+  updatedAt: Time.now.getlocal("+08:00").strftime("%Y-%m-%d %H:%M"),
   sourceCount: PRODUCTS.length,
   scentInfo: scent_info,
   productInfo: tw_data[:productInfo],
