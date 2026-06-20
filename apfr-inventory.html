@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>APFR 官網庫存總覽</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="apfr.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">APOTHEKE FRAGRANCE</p>
+          <h1>香氣與品項庫存總覽</h1>
+          <p class="lead">用同一份官網資料，切換「看某個味道有哪些品項」或「看某個品項有哪些味道」。</p>
+        </div>
+        <div class="top-actions">
+          <a class="ghost-link" href="customer-inventory.html">客人瀏覽版</a>
+          <button class="ghost-button" id="syncNowButton" type="button">更新並重整庫存</button>
+          <button class="primary-button" id="exportCsvButton" type="button">匯出 CSV</button>
+        </div>
+      </header>
+
+      <main>
+        <section class="sync-panel">
+          <div>
+            <strong id="syncStatus">讀取庫存資料中</strong>
+            <span id="syncTime"></span>
+          </div>
+          <p id="syncHint">按「更新並重整庫存」可直接嘗試讀取官網資料；若瀏覽器阻擋，再執行資料夾裡的「更新 APFR 庫存.command」。</p>
+        </section>
+
+        <section class="view-controls">
+          <div class="segmented-control" aria-label="檢視方式">
+            <button class="active" data-view="scent" type="button">依香氣看品項</button>
+            <button data-view="product" type="button">依品項看香氣</button>
+          </div>
+          <button class="ghost-button restock-button" id="restockButton" type="button">整理售完補貨清單</button>
+          <input id="searchInput" type="search" placeholder="搜尋味道、品項或價格" />
+        </section>
+
+        <section class="restock-panel" id="restockPanel" hidden>
+          <div class="panel-heading">
+            <div>
+              <h2>售完補貨清單</h2>
+              <p id="restockSummary">目前沒有售完品項。</p>
+            </div>
+            <div class="panel-actions">
+              <button class="ghost-button" id="exportRestockButton" type="button">匯出補貨 CSV</button>
+              <button class="text-button" id="closeRestockButton" type="button">收起</button>
+            </div>
+          </div>
+          <div class="segmented-control restock-view-control" aria-label="補貨清單整理方式">
+            <button class="active" data-restock-view="product" type="button">依品項整理</button>
+            <button data-restock-view="scent" type="button">依味道整理</button>
+          </div>
+          <div class="restock-list" id="restockList"></div>
+          <p class="empty-state" id="emptyRestock" hidden>目前沒有售完品項需要補貨。</p>
+        </section>
+
+        <section class="workspace apfr-workspace">
+          <aside class="sidebar" aria-label="清單">
+            <div class="panel-heading">
+              <h2 id="listTitle">香氣</h2>
+              <button class="text-button" id="clearSelectionButton" type="button">全部</button>
+            </div>
+            <div class="fragrance-list apfr-list" id="optionList"></div>
+          </aside>
+
+          <section class="content-panel">
+            <div class="toolbar">
+              <div>
+                <h2 id="currentTitle">全部庫存</h2>
+                <p id="currentSubtitle">每張卡片都是一個官網品項與香氣的庫存組合。</p>
+              </div>
+            </div>
+            <div class="result-grid" id="resultGrid"></div>
+            <p class="empty-state" id="emptyState" hidden>目前沒有符合條件的庫存。</p>
+          </section>
+        </section>
+
+        <section class="orders-panel">
+          <div class="panel-heading">
+            <div>
+              <h2>完整清單</h2>
+              <p>適合快速掃描所有 APFR 品項目前有哪些香氣，包含售完狀態。</p>
+            </div>
+          </div>
+          <div class="inventory-table-wrap">
+            <table class="inventory-table">
+              <thead>
+                <tr>
+                  <th>香氣</th>
+                  <th>品項</th>
+                  <th>庫存</th>
+                  <th>價格</th>
+                  <th>狀態</th>
+                  <th>官網</th>
+                </tr>
+              </thead>
+              <tbody id="inventoryTableBody"></tbody>
+            </table>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="inventory-data.js"></script>
+    <script src="apfr-app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>APFR Scent List</title>
+    <link rel="stylesheet" href="customer.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="customer-inventory.html">APFR</a>
+      <nav aria-label="瀏覽方式">
+        <button class="nav-button active" data-view="scent" type="button">Scents</button>
+        <button class="nav-button" data-view="product" type="button">Products</button>
+        <button class="nav-button" data-view="goods" type="button">Goods</button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="tools" aria-label="搜尋與篩選">
+        <p class="tools-kicker">APOTHEKE FRAGRANCE</p>
+        <input id="searchInput" type="search" placeholder="Search scent, product or goods" />
+      </section>
+
+      <section class="catalog-layout" id="catalogLayout">
+        <aside class="index-panel" id="indexPanel" aria-label="項目索引">
+          <h2 id="indexTitle">Scents</h2>
+          <div class="index-list" id="indexList"></div>
+        </aside>
+
+        <section class="detail-panel">
+          <article class="feature-panel" id="featurePanel" hidden></article>
+          <div class="customer-grid" id="customerGrid"></div>
+          <p class="empty-state" id="emptyState" hidden>No matching items.</p>
+        </section>
+      </section>
+    </main>
+
+    <footer>
+      <span id="updatedAt">Inventory sync time unavailable.</span>
+    </footer>
+
+    <script src="inventory-data.js"></script>
+    <script src="customer-app.js"></script>
+  </body>
+</html>
