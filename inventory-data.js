@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-21 01:46",
+  "updatedAt": "2026-06-21 02:01",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -739,11 +739,6 @@ window.APFR_INVENTORY_DATA = {
     "玻璃罐裝蠟燭 舊包裝": {
       "descriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
       "specZh": "Made in Japan / 內容量 290g / 大豆蠟 / 燃燒時間約 64 小時",
-      "sourceZh": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
-    },
-    "玻璃罐裝蠟燭": {
-      "descriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "specZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
       "sourceZh": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     }
   },
@@ -3339,10 +3334,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6659ac8ef4aca9001822417e",
@@ -3354,10 +3346,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:64ba81e9bd33e3000f3195a8",
@@ -3369,10 +3358,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6443b69bb3aa9d000d4ac465",
@@ -3384,10 +3370,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:67933bf8fb1284000cde5a1d",
@@ -3399,10 +3382,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:67933b9a717528000d8a33a3",
@@ -3414,10 +3394,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:65157bca055c2b000fd86698",
@@ -3429,10 +3406,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:65157bca055c2b000fd86697",
@@ -3444,10 +3418,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:67933b9a717528000d8a33a4",
@@ -3459,10 +3430,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:64ba81e9bd33e3000f3195a9",
@@ -3474,10 +3442,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6659acd9f4aca90018224180",
@@ -3489,10 +3454,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:66a384ed0b4794001ebc0272",
@@ -3504,10 +3466,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6659ad08aa731ac144727a9b",
@@ -3519,10 +3478,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6443b69bb3aa9d000d4ac466",
@@ -3534,10 +3490,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:67933c625600a5000cc24b0a",
@@ -3549,10 +3502,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6443b69bb3aa9d000d4ac467",
@@ -3564,10 +3514,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:67933c625600a5000cc24b0b",
@@ -3579,10 +3526,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6659ad2e29fa4f853fc5ea12",
@@ -3594,10 +3538,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:67933c625600a5000cc24b0c",
@@ -3609,10 +3550,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:67933c625600a5000cc24b0d",
@@ -3624,10 +3562,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:64ba81e9bd33e3000f3195aa",
@@ -3639,10 +3574,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6443b69bb3aa9d000d4ac468",
@@ -3654,10 +3586,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:64ba81e9bd33e3000f3195ab",
@@ -3669,10 +3598,7 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
-      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
-      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
     }
   ]
 };
