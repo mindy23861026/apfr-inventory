@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-21 05:01",
+  "updatedAt": "2026-06-21 05:18",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -287,26 +287,6 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-moss-swamp-1",
       "notesZh": "琥珀 / 廣藿香 / 雪松 / 橡苔 / 白松香 / 黑胡椒 / 無花果葉 / 柏樹"
     },
-    "MYSTIC VOYAGE": {
-      "family": "Woody Amber",
-      "notes": [
-        "Carnation",
-        "Clove",
-        "Nutmeg",
-        "Patchouli",
-        "Rose",
-        "Saffron",
-        "Vanilla",
-        "White Pepper",
-        "Woods"
-      ],
-      "description": "A spicy woody amber fragrance that evokes a journey along the spice routes of the Age of Discovery. From the Moluccas, which proved that the world is round, to Malacca, the key hub of East–West trade, and the golden city of Goa. Blended with diverse spices, blossoms, and woods that connected Persia, the Red Sea, and Madagascar.",
-      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Mystic-Voyage-1000x1000.webp",
-      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/mystic-voyage/",
-      "descriptionZh": "辛辣木質東方調。 大航海時代，摩鹿加群島被稱為「香料群島」，來自馬六甲、果阿、波斯與紅海的香料在此匯聚。靈感來自當時滿載香料、花卉與木材的貿易航線。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-mystic-voyage-1",
-      "notesZh": "肉豆蔻 / 藏紅花 / 丁香 / 白胡椒 / 康乃馨 / 玫瑰 / 香草 / 廣藿香 / 木"
-    },
     "NEW DAY": {
       "family": "Woods",
       "notes": [
@@ -581,25 +561,6 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-rufus-1",
       "notesZh": "桃子 / 橙花籽 / 香草 / 黑香豆 / 琥珀 / 麝香 / 木"
     },
-    "SUNNY DAYS": {
-      "family": "Floral",
-      "notes": [
-        "Bergamot",
-        "Grapefruit",
-        "Lilly",
-        "Mandarin",
-        "Mimosa",
-        "Narcissus",
-        "Orange",
-        "Plum"
-      ],
-      "description": "Designed to pair wonderfully on a bright, sunny day, this is a refreshing citrus floral scent.",
-      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Sunny-Days-1000x1000.webp",
-      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/sunny-days/",
-      "descriptionZh": "為配合美妙晴朗的艷陽天而生，一款清新的柑橘花香。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-sunny-days-1",
-      "notesZh": "佛手柑 / 橙子 / 葡萄柚 / 柑橘 / 梅子 / 百合 / 水仙 / 含羞草"
-    },
     "BASIL+SAGE+MINT": {
       "family": "Aromatic Fougère",
       "notes": [
@@ -650,12 +611,22 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-lick-me-all-over-1",
       "notesZh": "洋甘菊 / 案樹 / 薰衣草 / 橙 / 雪松 / 覆盆子 / 哈密瓜 / 西瓜 / 茉莉 / 紫羅蘭 / 葡萄柚"
     },
+    "MYSTIC VOYAGE": {
+      "descriptionZh": "辛辣木質東方調。 大航海時代，摩鹿加群島被稱為「香料群島」，來自馬六甲、果阿、波斯與紅海的香料在此匯聚。靈感來自當時滿載香料、花卉與木材的貿易航線。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-mystic-voyage-1",
+      "notesZh": "肉豆蔻 / 藏紅花 / 丁香 / 白胡椒 / 康乃馨 / 玫瑰 / 香草 / 廣藿香 / 木"
+    },
     "OAKMOSS & AMBER": {
       "descriptionZh": "帶有柑橘和琥珀味的清新香氣，與橡苔相得益彰。柑橘香作為前調，中調為鼠尾草和薰衣草等草藥調，再到最後由橡苔、琥珀和零陵香豆收尾。仿佛置身於米克諾斯度假村的客廳，俯瞰愛琴海，與微風相伴。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-oakmoss-amber-1",
       "notesZh": "鼠尾草 / 橙子 / 葡萄柚 / 玫瑰 / 薰衣草 / 藥草 / 橡苔 / 琥珀 / 黑香豆",
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Oakmossamber-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/oakmoss-amber/"
+    },
+    "SUNNY DAYS": {
+      "descriptionZh": "為配合美妙晴朗的艷陽天而生，一款清新的柑橘花香。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-sunny-days-1",
+      "notesZh": "佛手柑 / 橙子 / 葡萄柚 / 柑橘 / 梅子 / 百合 / 水仙 / 含羞草"
     },
     "EARL GREY & GRAPEFRUIT": {
       "descriptionZh": "散發著伯爵茶的香味，佛手柑舒緩的香氣是這個香氛的主要特征。",
