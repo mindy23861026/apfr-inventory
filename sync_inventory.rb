@@ -82,6 +82,10 @@ APFR_TW_COLLECTIONS = {
 }.freeze
 
 SCENT_OVERRIDES = {
+  "LAVENDER" => {
+    "descriptionZh" => "甘甜不膩的花香調，配合草本的清爽。薰衣草以出色的抗菌效果而聞名。英文 Lavender 的詞根起源自拉丁語 LAVARE，有「洗滌」的意思。作為男性經典的 fougere（馥奇調）香調的主要成分，薰衣草突破性別界限，被世人推崇。",
+    "notesZh" => "薰衣草 / 寬葉薰衣草"
+  },
   "TOBACCO CEDAR" => {
     "descriptionZh" => "以煙卷的香味為靈感的東方木質香調。",
     "notesZh" => "煙葉 / 雪松 / 檀香 / 柑橘 / 辛香料 / 沈香木 / 肉桂 / 愈創木 / 黑胡椒 / 香根草"

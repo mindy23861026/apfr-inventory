@@ -678,6 +678,10 @@ window.APFR_INVENTORY_DATA = {
     "THE QUIET LIGHT": {
       "descriptionZh": "以夜晚靜默安逸的湖泊為靈感的綠色花香調。",
       "notesZh": "佛手柑 / 酸橙 / 依蘭 / 百合 / 黃瓜 / 竹子"
+    },
+    "LAVENDER": {
+      "descriptionZh": "甘甜不膩的花香調，配合草本的清爽。薰衣草以出色的抗菌效果而聞名。英文 Lavender 的詞根起源自拉丁語 LAVARE，有「洗滌」的意思。作為男性經典的 fougere（馥奇調）香調的主要成分，薰衣草突破性別界限，被世人推崇。",
+      "notesZh": "薰衣草 / 寬葉薰衣草"
     }
   },
   "productInfo": {
