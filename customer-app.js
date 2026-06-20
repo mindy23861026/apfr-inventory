@@ -8,6 +8,9 @@ function loadCustomerData() {
     items: [],
   };
 
+  // The local file should always show the latest synced data bundled with the page.
+  if (window.location.protocol === "file:") return bundledData;
+
   try {
     const saved = window.localStorage.getItem(CUSTOMER_SYNC_KEY);
     if (saved) {
