@@ -82,6 +82,10 @@ APFR_TW_COLLECTIONS = {
 }.freeze
 
 SCENT_OVERRIDES = {
+  "TOBACCO CEDAR" => {
+    "descriptionZh" => "以煙卷的香味為靈感的東方木質香調。",
+    "notesZh" => "煙葉 / 雪松 / 檀香 / 柑橘 / 辛香料 / 沈香木 / 肉桂 / 愈創木 / 黑胡椒 / 香根草"
+  },
   "THE QUIET LIGHT" => {
     "descriptionZh" => "以夜晚靜默安逸的湖泊為靈感的綠色花香調。",
     "notesZh" => "佛手柑 / 酸橙 / 依蘭 / 百合 / 黃瓜 / 竹子"

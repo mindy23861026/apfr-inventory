@@ -509,9 +509,9 @@ window.APFR_INVENTORY_DATA = {
       "description": "An oriental, woody scent evoking the image of a cigar.",
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Tobacco-Cedar-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/tobacco-cedar/",
-      "descriptionZh": "以煙卷的香味為靈感的東方木質香調。 煙葉 / 雪松 / 檀香 / 柑橘 / 辛香料",
+      "descriptionZh": "以煙卷的香味為靈感的東方木質香調。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/room-mist-spray-室內芳香噴霧-tobacco-cedar-1",
-      "notesZh": "沈香木 / 肉桂 / 愈創木 / 黑胡椒 / 香根草"
+      "notesZh": "煙葉 / 雪松 / 檀香 / 柑橘 / 辛香料 / 沈香木 / 肉桂 / 愈創木 / 黑胡椒 / 香根草"
     },
     "BETWEEN THE SHEETS": {
       "family": "Fruity",
