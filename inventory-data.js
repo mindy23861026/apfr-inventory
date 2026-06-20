@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-20 16:01",
+  "updatedAt": "2026-06-20 16:03",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -711,11 +711,6 @@ window.APFR_INVENTORY_DATA = {
       "specZh": "Made in Japan / 內容物 25mL",
       "sourceZh": "https://apothekefragrance.tw/zh/collections/fragrance-oil"
     },
-    "室內擴香 舊包裝": {
-      "descriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
-      "specZh": "Made in Japan / 內容量 250mL / 擴香棒 5 pc / 留香期 5-6 個月",
-      "sourceZh": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
-    },
     "旅遊罐裝蠟燭": {
       "descriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
       "specZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
@@ -735,6 +730,9 @@ window.APFR_INVENTORY_DATA = {
       "descriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
       "specZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
       "sourceZh": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+    },
+    "室內擴香 舊包裝": {
+      "specZh": "Made in Japan / 內容量 250mL / 擴香棒 5 pc / 留香期 5-6 個月"
     }
   },
   "goods": [
@@ -2445,9 +2443,9 @@ window.APFR_INVENTORY_DATA = {
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser-old.png",
       "url": "https://www.everydayware.co/products/apotheke-fragrance-reed--diffuser",
-      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productDescriptionZh": null,
       "productSpecZh": "Made in Japan / 內容量 250mL / 擴香棒 5 pc / 留香期 5-6 個月",
-      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
+      "productInfoSource": null
     },
     {
       "id": "64ba7e87453374001af3f1b8:64ba7e878ceb87001299596f",
