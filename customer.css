@@ -370,7 +370,7 @@ p {
 }
 
 .inventory-line.soldout span:last-child {
-  color: #a16f63;
+  color: var(--sold);
 }
 
 .status-line {
