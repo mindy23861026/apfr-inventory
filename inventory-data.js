@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-21 18:01",
+  "updatedAt": "2026-06-21 18:17",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -497,22 +497,6 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-agharta-1",
       "notesZh": "荳蔻 / 勞丹脂 / 肉桂 / 丁香 / 玫瑰 / 依蘭 / 柏樹 / 琥珀籽 / 香草 / 檀香 / 弗吉尼亞 雪松 / 阿拉斯加雪松"
     },
-    "TOBACCO CEDAR": {
-      "family": "Dry Woods",
-      "notes": [
-        "Cedarwood",
-        "Citrus",
-        "Sandalwood",
-        "Spice",
-        "Tobacco reef"
-      ],
-      "description": "An oriental, woody scent evoking the image of a cigar.",
-      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Tobacco-Cedar-1000x1000.webp",
-      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/tobacco-cedar/",
-      "descriptionZh": "以煙卷的香味為靈感的東方木質香調。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/room-mist-spray-室內芳香噴霧-tobacco-cedar-1",
-      "notesZh": "煙葉 / 雪松 / 檀香 / 柑橘 / 辛香料 / 沈香木 / 肉桂 / 愈創木 / 黑胡椒 / 香根草"
-    },
     "BETWEEN THE SHEETS": {
       "family": "Fruity",
       "notes": [
@@ -656,6 +640,11 @@ window.APFR_INVENTORY_DATA = {
       "notesZh": "鼠尾草 / 橙子 / 葡萄柚 / 玫瑰 / 薰衣草 / 藥草 / 橡苔 / 琥珀 / 黑香豆",
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Oakmossamber-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/oakmoss-amber/"
+    },
+    "TOBACCO CEDAR": {
+      "descriptionZh": "以煙卷的香味為靈感的東方木質香調。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/room-mist-spray-室內芳香噴霧-tobacco-cedar-1",
+      "notesZh": "煙葉 / 雪松 / 檀香 / 柑橘 / 辛香料 / 沈香木 / 肉桂 / 愈創木 / 黑胡椒 / 香根草"
     },
     "EARL GREY & GRAPEFRUIT": {
       "descriptionZh": "散發著伯爵茶的香味，佛手柑舒緩的香氣是這個香氛的主要特征。",
