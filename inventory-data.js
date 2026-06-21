@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-21 21:16",
+  "updatedAt": "2026-06-21 21:31",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -1565,7 +1565,7 @@ window.APFR_INVENTORY_DATA = {
       "productTitle": "APFR 線香",
       "scent": "BLUE HOUR",
       "rawScent": "BLUE HOUR",
-      "quantity": 30,
+      "quantity": 29,
       "soldOut": false,
       "price": "NT$980",
       "productImage": "product-images/incense-sticks.png",
@@ -1760,7 +1760,7 @@ window.APFR_INVENTORY_DATA = {
       "productTitle": "APFR 線香",
       "scent": "MYSTIC VOYAGE",
       "rawScent": "MYSTIC VOYAGE",
-      "quantity": 10,
+      "quantity": 9,
       "soldOut": false,
       "price": "NT$980",
       "productImage": "product-images/incense-sticks.png",
