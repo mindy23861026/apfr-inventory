@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-21 12:32",
+  "updatedAt": "2026-06-21 12:46",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -620,6 +620,26 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/fragrance-oil-燃燒專用精油-basil-sage-mint-1",
       "notesZh": "橙子 / 檸檬 / 薄荷 / 百合 / 茉莉 / 羅勒 / 鼠尾草 / 木 / 麝香"
     },
+    "TIMELESS": {
+      "family": "Water",
+      "notes": [
+        "Apple",
+        "Chamomile",
+        "Coriander",
+        "Lychee",
+        "Mandarin",
+        "Peach",
+        "Plum",
+        "Rose",
+        "Sandalwood"
+      ],
+      "description": "A floral fruity scent with freshness and purity, from the marine/ozone family.",
+      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Timeless-1000x1000.webp",
+      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/timeless/",
+      "descriptionZh": "像大海一樣清澈又永恒，經典的水系香調。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-timeless-1",
+      "notesZh": "洋甘菊 / 蘋果 / 荔枝 / 柑橘 / 玫瑰 / 李子 / 桃 / 香菜 / 檀香"
+    },
     "24K ROSE": {
       "descriptionZh": "清新明亮的鮮花植物香氣，融合了嫩葉的清新和花朵的甜香。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/travel-tin-candle-旅遊罐裝蠟燭-24k-rose-2",
@@ -636,11 +656,6 @@ window.APFR_INVENTORY_DATA = {
       "notesZh": "鼠尾草 / 橙子 / 葡萄柚 / 玫瑰 / 薰衣草 / 藥草 / 橡苔 / 琥珀 / 黑香豆",
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Oakmossamber-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/oakmoss-amber/"
-    },
-    "TIMELESS": {
-      "descriptionZh": "像大海一樣清澈又永恒，經典的水系香調。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-timeless-1",
-      "notesZh": "洋甘菊 / 蘋果 / 荔枝 / 柑橘 / 玫瑰 / 李子 / 桃 / 香菜 / 檀香"
     },
     "EARL GREY & GRAPEFRUIT": {
       "descriptionZh": "散發著伯爵茶的香味，佛手柑舒緩的香氣是這個香氛的主要特征。",
