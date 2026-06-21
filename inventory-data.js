@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-21 10:33",
+  "updatedAt": "2026-06-21 10:46",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -180,6 +180,24 @@ window.APFR_INVENTORY_DATA = {
       "descriptionZh": "果香型，草莓、荔枝與茉莉花香順滑的混合在一起... 原來夏日總是常相伴。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-endless-summer-1",
       "notesZh": "荔枝 / 李子 / 梨 / 草莓 / 含羞草 / 茉莉花 / 琥珀 / 柚木"
+    },
+    "ECHO": {
+      "family": "Aromatic Fougère",
+      "notes": [
+        "Black Pepper",
+        "Cardamom",
+        "Cedarwood",
+        "Leather",
+        "Musk",
+        "Nutmeg",
+        "Sandalwood"
+      ],
+      "description": "Echo evokes a sophisticated urban atmosphere. The blend begins with a spicy and refreshing aroma highlighting black pepper and cardamom, before settling into a cozy and warm woody, musky scent.",
+      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Echo-1000x1000.webp",
+      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/echo/",
+      "descriptionZh": "Echo 喚起一種精緻的都市氛圍。香氣以黑胡椒與小荳蔻為主調，帶來辛香且清新的氣息，隨後逐漸轉為溫暖舒適的木質與麝香氣息。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-echo-1",
+      "notesZh": "肉豆蔻 / 黑胡椒 / 豆蔻 / 麝香 / 雪松 / 檀香 / 皮革"
     },
     "FIG": {
       "family": "Fruity",
@@ -626,11 +644,6 @@ window.APFR_INVENTORY_DATA = {
       "descriptionZh": "清新明亮的鮮花植物香氣，融合了嫩葉的清新和花朵的甜香。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/travel-tin-candle-旅遊罐裝蠟燭-24k-rose-2",
       "notesZh": "玫瑰 / 百合 / 薰衣草 / 橡苔 / 萬壽菊"
-    },
-    "ECHO": {
-      "descriptionZh": "Echo 喚起一種精緻的都市氛圍。香氣以黑胡椒與小荳蔻為主調，帶來辛香且清新的氣息，隨後逐漸轉為溫暖舒適的木質與麝香氣息。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-echo-1",
-      "notesZh": "肉豆蔻 / 黑胡椒 / 豆蔻 / 麝香 / 雪松 / 檀香 / 皮革"
     },
     "LICK ME ALL OVER": {
       "descriptionZh": "迷人的果香系香味。",
