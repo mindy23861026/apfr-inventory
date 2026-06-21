@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-21 21:01",
+  "updatedAt": "2026-06-21 21:16",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -875,8 +875,8 @@ window.APFR_INVENTORY_DATA = {
       "productTitle": "APFR 室內擴香",
       "scent": "AVENUE",
       "rawScent": "AVENUE",
-      "quantity": 1,
-      "soldOut": false,
+      "quantity": 0,
+      "soldOut": true,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
       "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
