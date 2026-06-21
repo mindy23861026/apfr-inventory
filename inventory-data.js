@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-21 22:03",
+  "updatedAt": "2026-06-21 22:16",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -253,6 +253,22 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/incense-cones-塔香-hatayi",
       "notesZh": "紫羅蘭葉 / 保加利亞玫瑰 / 茉莉花 / 鳶尾花 / 丁香 / 黑醋栗 / 雪松 / 麝香"
     },
+    "LAVENDER CHAMOMILE": {
+      "family": "Aromatic Fougère",
+      "notes": [
+        "Cedarwood",
+        "Chamomile",
+        "Eucalyptus",
+        "Lavender",
+        "Orange"
+      ],
+      "description": "A blend enhanced with the rich sweetness of Italian chamomile. Inspired by natural remedies, this fragrance combines lavender (a good match as a medicinal herb), eucalyptus (accentuates both lavender and chamomile), and orange (emphasizing the fruity nature of chamomile). Cedarwood is used as a base to provide an aroma that harmonizes the whole.",
+      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Lavender-Chamomile-1000x1000.webp",
+      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/lavender-chamomile/",
+      "descriptionZh": "提取意大利洋甘菊醇厚甜度的混合物。在自然療法的啟迪下，將薰衣草與藥用植物調合，突出案樹和洋甘菊的果味，並在基礎上加入雪松木以營造出整體和諧的氣味。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-lavender-chamomile-1",
+      "notesZh": "洋甘菊 / 尤加利 / 薰衣草 / 橙 / 雪松"
+    },
     "MOSS SWAMP": {
       "family": "Mossy Woods",
       "notes": [
@@ -439,6 +455,25 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-tears-rain-1",
       "notesZh": "白葡萄柚 / 玫瑰 / 康乃馨 / 百合 / 茉莉 / 晚香玉 / 仙客來 / 紫羅蘭 / 檀香"
     },
+    "WHITE VETIVER": {
+      "family": "Mossy Woods",
+      "notes": [
+        "Amber",
+        "Bergamot",
+        "Cedarwood",
+        "Fir Balsam",
+        "Geranium",
+        "Musk",
+        "Patchouli",
+        "Vetiver"
+      ],
+      "description": "This scent is a refined mix of earthiness, citrus, geranium, and musk with a base of heavy woody-earthy vetiver that evokes the smell of soil. This mix results in a fresh, yet soothing and calming scent.",
+      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/White-Vetiver-1000x1000.webp",
+      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/white-vetiver/",
+      "descriptionZh": "一款清新、舒緩和令人鎮定的香氣。紮根於大地新鮮土壤中的香根草，以其獨特的木質氣息而聞名。與柑橘、天竺葵、麝香等調和而成。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/fragrance-oil-燃燒專用精油-white-vetiver-1",
+      "notesZh": "佛手柑 / 天竺葵 / 廣藿香 / 香脂冷杉 / 香根草 / 雪松 / 麝香 / 琥珀"
+    },
     "AGHARTA": {
       "family": "Soft Amber",
       "notes": [
@@ -615,22 +650,12 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-lick-me-all-over-1",
       "notesZh": "洋甘菊 / 案樹 / 薰衣草 / 橙 / 雪松 / 覆盆子 / 哈密瓜 / 西瓜 / 茉莉 / 紫羅蘭 / 葡萄柚"
     },
-    "LAVENDER CHAMOMILE": {
-      "descriptionZh": "提取意大利洋甘菊醇厚甜度的混合物。在自然療法的啟迪下，將薰衣草與藥用植物調合，突出案樹和洋甘菊的果味，並在基礎上加入雪松木以營造出整體和諧的氣味。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-lavender-chamomile-1",
-      "notesZh": "洋甘菊 / 尤加利 / 薰衣草 / 橙 / 雪松"
-    },
     "OAKMOSS & AMBER": {
       "descriptionZh": "帶有柑橘和琥珀味的清新香氣，與橡苔相得益彰。柑橘香作為前調，中調為鼠尾草和薰衣草等草藥調，再到最後由橡苔、琥珀和零陵香豆收尾。仿佛置身於米克諾斯度假村的客廳，俯瞰愛琴海，與微風相伴。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-oakmoss-amber-1",
       "notesZh": "鼠尾草 / 橙子 / 葡萄柚 / 玫瑰 / 薰衣草 / 藥草 / 橡苔 / 琥珀 / 黑香豆",
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Oakmossamber-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/oakmoss-amber/"
-    },
-    "WHITE VETIVER": {
-      "descriptionZh": "一款清新、舒緩和令人鎮定的香氣。紮根於大地新鮮土壤中的香根草，以其獨特的木質氣息而聞名。與柑橘、天竺葵、麝香等調和而成。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/fragrance-oil-燃燒專用精油-white-vetiver-1",
-      "notesZh": "佛手柑 / 天竺葵 / 廣藿香 / 香脂冷杉 / 香根草 / 雪松 / 麝香 / 琥珀"
     },
     "EARL GREY & GRAPEFRUIT": {
       "descriptionZh": "散發著伯爵茶的香味，佛手柑舒緩的香氣是這個香氛的主要特征。",
