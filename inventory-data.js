@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-22 08:18",
+  "updatedAt": "2026-06-22 08:33",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -269,24 +269,6 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-lavender-chamomile-1",
       "notesZh": "洋甘菊 / 尤加利 / 薰衣草 / 橙 / 雪松"
     },
-    "MOSS SWAMP": {
-      "family": "Mossy Woods",
-      "notes": [
-        "Amber",
-        "Black Pepper",
-        "Cedarwood",
-        "Cypress",
-        "Fig Leaf",
-        "Oakmoss",
-        "Patchouli"
-      ],
-      "description": "A deep, fragrant, green aroma combining the soothing scents of oakmoss, amber, and cedarwood with the freshness of cypress and the gentle sweetness of fig leaf accents on top. A green scent of bog moss and grass, a pleasant sweetness from the forest trees, and a creaminess seemingly enveloped in mist.",
-      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Moss-Swamp-1000x1000.webp",
-      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/moss-swamp/",
-      "descriptionZh": "擁有橡苔、琥珀、雪松等木質香氛的穩重，以及柏樹的清爽感。 由無花果葉的溫和甜味作為前調，再到深遠綠系氣質的蔓延開來。 讓人聯想到在森林的綠意盎然下，來自大自然沁人心脾的舒適。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-moss-swamp-1",
-      "notesZh": "琥珀 / 廣藿香 / 雪松 / 橡苔 / 白松香 / 黑胡椒 / 無花果葉 / 柏樹"
-    },
     "MYSTIC VOYAGE": {
       "family": "Woody Amber",
       "notes": [
@@ -396,6 +378,25 @@ window.APFR_INVENTORY_DATA = {
       "descriptionZh": "帶有淡淡甜味和清新的泥土花香，令人愉悅，正如其拉丁語的含義——愜意。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-suavis-1",
       "notesZh": "仙客來 / 百合 / 麝香 / 雪松"
+    },
+    "TANNER": {
+      "family": "Dry Woods",
+      "notes": [
+        "Amber",
+        "Birch Tar",
+        "Frankincense",
+        "Jasmine",
+        "Leather",
+        "Saffron",
+        "Thyme",
+        "Wood"
+      ],
+      "description": "Evokes the tanning industry of the 18th century. Grasse in southern France flourished as a well-known source of perfume for leather products to mask the peculiar aromas. Our Tanner is a leathery, sophisticated, unisex scent inspired by tanners of old.",
+      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Tanner-1000x1000.webp",
+      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/tanner/",
+      "descriptionZh": "在18世紀的歐洲皮革業，法國南部的格拉斯（Grasse）作為著名的香水生產地，為遮蓋皮制品異味，專門提供一種特殊的香水。Tanner是一款帶有皮革調的中性香味，靈感正是來自那個時期的皮革匠人。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-tanner-1",
+      "notesZh": "皮革 / 樺焦油 / 藏紅花 / 時間 / 乳香 / 茉莉 / 琥珀 /木"
     },
     "TEAKWOOD": {
       "family": "Dry Woods",
@@ -581,25 +582,25 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-sunny-days-1",
       "notesZh": "佛手柑 / 橙子 / 葡萄柚 / 柑橘 / 梅子 / 百合 / 水仙 / 含羞草"
     },
-    "TIMELESS": {
-      "family": "Water",
+    "BASIL+SAGE+MINT": {
+      "family": "Aromatic Fougère",
       "notes": [
-        "Apple",
-        "Chamomile",
-        "Coriander",
-        "Lychee",
-        "Mandarin",
-        "Peach",
-        "Plum",
-        "Rose",
-        "Sandalwood"
+        "Basil",
+        "Clary Sage",
+        "Jasmin",
+        "Lemon",
+        "Lily",
+        "Musk",
+        "Orange",
+        "Peppermint",
+        "Wood"
       ],
-      "description": "A floral fruity scent with freshness and purity, from the marine/ozone family.",
-      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Timeless-1000x1000.webp",
-      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/timeless/",
-      "descriptionZh": "像大海一樣清澈又永恒，經典的水系香調。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-timeless-1",
-      "notesZh": "洋甘菊 / 蘋果 / 荔枝 / 柑橘 / 玫瑰 / 李子 / 桃 / 香菜 / 檀香"
+      "description": "A rustic, lush fragrance that evokes the image of a garden. Like a soft mixture of herbs and flowers picked from a back garden in early summer when the greenery is lush, and citrus fruits such as lemons and oranges grow in abundance. A fresh and invigorating fragrance based on the pleasantly sweet herbs of basil and clary sage, the floral scents of jasmine and lily of the valley, and the soft aroma of musk.",
+      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/BasilSageMint-1000x1000.webp",
+      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/basil-sage-mint/",
+      "descriptionZh": "以後花園為主題，讓人聯想到在綠意盎然的初夏，將新鮮采摘的草本植物、鮮花、檸檬、香橙混在一起的蔥郁香味。用麝香的柔和香調作為基礎，在茉莉和山谷百合的香氣中添加羅勒和鼠尾草等甜味宜人的草本植物。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/fragrance-oil-燃燒專用精油-basil-sage-mint-1",
+      "notesZh": "橙子 / 檸檬 / 薄荷 / 百合 / 茉莉 / 羅勒 / 鼠尾草 / 木 / 麝香"
     },
     "24K ROSE": {
       "descriptionZh": "清新明亮的鮮花植物香氣，融合了嫩葉的清新和花朵的甜香。",
@@ -611,6 +612,11 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-lick-me-all-over-1",
       "notesZh": "洋甘菊 / 案樹 / 薰衣草 / 橙 / 雪松 / 覆盆子 / 哈密瓜 / 西瓜 / 茉莉 / 紫羅蘭 / 葡萄柚"
     },
+    "MOSS SWAMP": {
+      "descriptionZh": "擁有橡苔、琥珀、雪松等木質香氛的穩重，以及柏樹的清爽感。 由無花果葉的溫和甜味作為前調，再到深遠綠系氣質的蔓延開來。 讓人聯想到在森林的綠意盎然下，來自大自然沁人心脾的舒適。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-moss-swamp-1",
+      "notesZh": "琥珀 / 廣藿香 / 雪松 / 橡苔 / 白松香 / 黑胡椒 / 無花果葉 / 柏樹"
+    },
     "OAKMOSS & AMBER": {
       "descriptionZh": "帶有柑橘和琥珀味的清新香氣，與橡苔相得益彰。柑橘香作為前調，中調為鼠尾草和薰衣草等草藥調，再到最後由橡苔、琥珀和零陵香豆收尾。仿佛置身於米克諾斯度假村的客廳，俯瞰愛琴海，與微風相伴。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-oakmoss-amber-1",
@@ -618,15 +624,10 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Oakmossamber-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/oakmoss-amber/"
     },
-    "TANNER": {
-      "descriptionZh": "在18世紀的歐洲皮革業，法國南部的格拉斯（Grasse）作為著名的香水生產地，為遮蓋皮制品異味，專門提供一種特殊的香水。Tanner是一款帶有皮革調的中性香味，靈感正是來自那個時期的皮革匠人。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-tanner-1",
-      "notesZh": "皮革 / 樺焦油 / 藏紅花 / 時間 / 乳香 / 茉莉 / 琥珀 /木"
-    },
-    "BASIL+SAGE+MINT": {
-      "descriptionZh": "以後花園為主題，讓人聯想到在綠意盎然的初夏，將新鮮采摘的草本植物、鮮花、檸檬、香橙混在一起的蔥郁香味。用麝香的柔和香調作為基礎，在茉莉和山谷百合的香氣中添加羅勒和鼠尾草等甜味宜人的草本植物。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/fragrance-oil-燃燒專用精油-basil-sage-mint-1",
-      "notesZh": "橙子 / 檸檬 / 薄荷 / 百合 / 茉莉 / 羅勒 / 鼠尾草 / 木 / 麝香"
+    "TIMELESS": {
+      "descriptionZh": "像大海一樣清澈又永恒，經典的水系香調。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-timeless-1",
+      "notesZh": "洋甘菊 / 蘋果 / 荔枝 / 柑橘 / 玫瑰 / 李子 / 桃 / 香菜 / 檀香"
     },
     "EARL GREY & GRAPEFRUIT": {
       "descriptionZh": "散發著伯爵茶的香味，佛手柑舒緩的香氣是這個香氛的主要特征。",
