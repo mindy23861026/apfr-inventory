@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-22 10:32",
+  "updatedAt": "2026-06-22 10:46",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -73,6 +73,28 @@ window.APFR_INVENTORY_DATA = {
       "descriptionZh": "獨特中性的東方果香調。 Anjir源自波斯語，意指映日果。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-anjir-1",
       "notesZh": "無花果 / 茴香 / 茉莉花 / 無花果葉 / 檀香木 / 麝香"
+    },
+    "AVENUE": {
+      "family": "Aromatic Fougère",
+      "notes": [
+        "Amber",
+        "Basil",
+        "Cedarwood",
+        "Ginger",
+        "Incense",
+        "Mandarin",
+        "Musk",
+        "Nutmeg",
+        "Peppermint",
+        "Suede",
+        "Violet"
+      ],
+      "description": "A spicy scent envisioning a high-powered man about town.",
+      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Avenue-1000x1000.webp",
+      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/avenue/",
+      "descriptionZh": "以活躍於大都會的精英為創作藍圖的辛辣木質香調。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-avenue",
+      "notesZh": "紫羅蘭 / 生姜 / 西柚 / 橘子 / 羅勒 / 胡椒薄荷 / 肉蔻 / 雪松 / 琥珀 / 麝香 / 山羊皮革"
     },
     "BLACK OUD": {
       "family": "Woody Amber",
@@ -622,11 +644,6 @@ window.APFR_INVENTORY_DATA = {
       "descriptionZh": "清新明亮的鮮花植物香氣，融合了嫩葉的清新和花朵的甜香。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/travel-tin-candle-旅遊罐裝蠟燭-24k-rose-2",
       "notesZh": "玫瑰 / 百合 / 薰衣草 / 橡苔 / 萬壽菊"
-    },
-    "AVENUE": {
-      "descriptionZh": "以活躍於大都會的精英為創作藍圖的辛辣木質香調。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-avenue",
-      "notesZh": "紫羅蘭 / 生姜 / 西柚 / 橘子 / 羅勒 / 胡椒薄荷 / 肉蔻 / 雪松 / 琥珀 / 麝香 / 山羊皮革"
     },
     "LICK ME ALL OVER": {
       "descriptionZh": "迷人的果香系香味。",
