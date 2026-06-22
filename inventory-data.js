@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-22 19:31",
+  "updatedAt": "2026-06-22 19:46",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -1790,7 +1790,7 @@ window.APFR_INVENTORY_DATA = {
       "productTitle": "APFR 線香",
       "scent": "NUR JAHAN",
       "rawScent": "NUR JAHAN",
-      "quantity": 7,
+      "quantity": 6,
       "soldOut": false,
       "price": "NT$980",
       "productImage": "product-images/incense-sticks.png",
@@ -1805,7 +1805,7 @@ window.APFR_INVENTORY_DATA = {
       "productTitle": "APFR 線香",
       "scent": "OAKMOSS & AMBER",
       "rawScent": "OAKMOSS & AMBER",
-      "quantity": 10,
+      "quantity": 9,
       "soldOut": false,
       "price": "NT$980",
       "productImage": "product-images/incense-sticks.png",
