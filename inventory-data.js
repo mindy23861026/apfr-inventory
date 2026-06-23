@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-23 17:01",
+  "updatedAt": "2026-06-23 17:16",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -37,8 +37,8 @@ window.APFR_INVENTORY_DATA = {
       "description": "An ambery-woody fragrance inspired by Morocco, the land where the sun sets. Warm oud and rich rose blend with sensual musk and spicy cinnamon. Ancient sandalwood and sacred frankincense add depth, while the refreshing nuance of mint tea evokes the sacred and enchanting bukhoor drifting through souks and mosques.",
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Maghreb-Bukhoor-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/maghreb-bukhoor/",
-      "descriptionZh": "充滿異國情調的東方木香調。靈感來自摩洛哥的北非大地（Maghreb Bukhoor在阿拉伯語中指太陽下山的地方）。溫暖的沈香木、濃郁的玫瑰、麝香和辛辣的肉桂，最後與傳統檀香、神聖的乳香混合，加上薄荷茶的點綴，讓人仿佛置身中東集市和清真寺的迷人香氣之中。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/hand-wash-洗手露-maghreb-bukhoor",
+      "descriptionZh": "充滿異國情調的東方木香調。靈感來自摩洛哥的北非大地（ Maghreb Bukhoor 在阿拉伯語中指太陽下山的地方）。溫暖的沈香木、濃郁的玫瑰、麝香和辛辣的肉桂，最後與傳統檀香、神聖的乳香混合，加上薄荷茶的點綴，讓人仿佛置身中東集市和清真寺的迷人香氣之中。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/room-mist-spray-室內芳香噴霧-maghreb-bukhoor-1",
       "notesZh": "沈香木 / 乳香 / 肉桂 / 薄荷 / 錦緞玫瑰 / 五月玫瑰 / 麝香 / 檀香木"
     },
     "WHITE TEA": {
@@ -108,8 +108,8 @@ window.APFR_INVENTORY_DATA = {
       "description": "Black Oud is a woody amber fragrance with exotic tones. According to the Sushruta, an ancient Indian pharmaceutical treatise, the smoke of agarwood can be applied as perfume. Burned agarwood was also used as an analgesic for wounds.",
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Black-oud-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/black-oud/",
-      "descriptionZh": "富有異國情調的東方木質香氣，根據印度古代藥學論著《Sushruta》的記載，沈香木不僅可以作為香料，焚燒過的沈香木還可以當止痛劑使用。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-black-oud-1",
+      "descriptionZh": "富有異國情調的東方木質香氣，根據印度古代藥學論著《 Sushruta 》的記載，沈香木不僅可以作為香料，焚燒過的沈香木還可以當止痛劑使用。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/room-mist-spray-室內芳香噴霧-black-oud-1",
       "notesZh": "沈香木 / 肉桂 / 愈創木 / 黑胡椒 / 香根草"
     },
     "BLUE HOUR": {
@@ -510,7 +510,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Tobacco-Cedar-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/tobacco-cedar/",
       "descriptionZh": "以煙卷的香味為靈感的東方木質香調。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-cone-塔香-tobacco-cedar",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/room-mist-spray-室內芳香噴霧-tobacco-cedar-1",
       "notesZh": "煙葉 / 雪松 / 檀香 / 柑橘 / 辛香料 / 沈香木 / 肉桂 / 愈創木 / 黑胡椒 / 香根草"
     },
     "BETWEEN THE SHEETS": {
@@ -640,6 +640,11 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-timeless-1",
       "notesZh": "洋甘菊 / 蘋果 / 荔枝 / 柑橘 / 玫瑰 / 李子 / 桃 / 香菜 / 檀香"
     },
+    "24K ROSE": {
+      "descriptionZh": "清新明亮的鮮花植物香氣，融合了嫩葉的清新和花朵的甜香。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/travel-tin-candle-旅遊罐裝蠟燭-24k-rose-2",
+      "notesZh": "玫瑰 / 百合 / 薰衣草 / 橡苔 / 萬壽菊"
+    },
     "LICK ME ALL OVER": {
       "descriptionZh": "迷人的果香系香味。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-lick-me-all-over-1",
@@ -672,6 +677,7 @@ window.APFR_INVENTORY_DATA = {
     },
     "LAVENDER": {
       "descriptionZh": "甘甜不膩的花香調，配合草本的清爽。薰衣草以出色的抗菌效果而聞名。英文 Lavender 的詞根起源自拉丁語 LAVARE，有「洗滌」的意思。作為男性經典的 fougere（馥奇調）香調的主要成分，薰衣草突破性別界限，被世人推崇。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/room-mist-spray-室內芳香噴霧-lavender-1",
       "notesZh": "薰衣草 / 寬葉薰衣草"
     },
     "THE QUIET LIGHT": {
@@ -715,13 +721,30 @@ window.APFR_INVENTORY_DATA = {
       "specZh": "Made in Japan / 內容量 250mL / 擴香棒 5 pc / 留香期 5-6 個月",
       "sourceZh": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
+    "旅遊罐裝蠟燭": {
+      "descriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
+      "specZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
+      "sourceZh": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
+    },
+    "空間噴霧": {
+      "descriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "specZh": "Made in Japan / 容量 100mL",
+      "sourceZh": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
+    },
     "衣櫥香氛吊卡": {
       "descriptionZh": "本款為紙質型香氛新產品，無論是掛在衣櫃內、毛巾架、門把或入口處等區域，都可以輕鬆享受到 APOTHEKE FRAGRANCE 帶來的療癒和享受。",
       "specZh": "Made in Japan / 香味期限：約一個月 (會因實際使用環境有所差異)",
       "sourceZh": "https://apothekefragrance.tw/zh/collections/closet-tag"
     },
     "玻璃罐裝蠟燭 舊包裝": {
-      "specZh": "Made in Japan / 內容量 290g / 大豆蠟 / 燃燒時間約 64 小時"
+      "descriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "specZh": "Made in Japan / 內容量 290g / 大豆蠟 / 燃燒時間約 64 小時",
+      "sourceZh": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
+    },
+    "玻璃罐裝蠟燭": {
+      "descriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "specZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "sourceZh": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     }
   },
   "goods": [
@@ -2446,7 +2469,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,180",
       "productImage": "product-images/travel-tin-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle",
+      "productDescriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
+      "productSpecZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
     },
     {
       "id": "64ba7e87453374001af3f1b8:64ba7e878ceb87001299596c",
@@ -2458,7 +2484,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,180",
       "productImage": "product-images/travel-tin-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle",
+      "productDescriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
+      "productSpecZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
     },
     {
       "id": "64ba7e87453374001af3f1b8:64ba7e878ceb87001299596b",
@@ -2470,7 +2499,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,180",
       "productImage": "product-images/travel-tin-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle",
+      "productDescriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
+      "productSpecZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
     },
     {
       "id": "64ba7e87453374001af3f1b8:67933ca5c2e7dd000b46f622",
@@ -2482,7 +2514,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$1,180",
       "productImage": "product-images/travel-tin-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle",
+      "productDescriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
+      "productSpecZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
     },
     {
       "id": "64ba7e87453374001af3f1b8:6791ffe2f762e9000f1f4cfa",
@@ -2494,7 +2529,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,180",
       "productImage": "product-images/travel-tin-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle",
+      "productDescriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
+      "productSpecZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
     },
     {
       "id": "64ba7e87453374001af3f1b8:6791fe1b82a4e0000d7db5ca",
@@ -2506,7 +2544,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,180",
       "productImage": "product-images/travel-tin-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle",
+      "productDescriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
+      "productSpecZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
     },
     {
       "id": "64ba7e87453374001af3f1b8:64ba7e878ceb87001299596a",
@@ -2518,7 +2559,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,180",
       "productImage": "product-images/travel-tin-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle",
+      "productDescriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
+      "productSpecZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
     },
     {
       "id": "64ba7e87453374001af3f1b8:64ba7e878ceb870012995968",
@@ -2530,7 +2574,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,180",
       "productImage": "product-images/travel-tin-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle",
+      "productDescriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
+      "productSpecZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
     },
     {
       "id": "64ba7e87453374001af3f1b8:64ba7e878ceb87001299596e",
@@ -2542,7 +2589,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,180",
       "productImage": "product-images/travel-tin-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle",
+      "productDescriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
+      "productSpecZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
     },
     {
       "id": "64ba7e87453374001af3f1b8:67933ab95600a5000cc24b04",
@@ -2554,7 +2604,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,180",
       "productImage": "product-images/travel-tin-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle",
+      "productDescriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
+      "productSpecZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
     },
     {
       "id": "64ba7e87453374001af3f1b8:64ba7e878ceb87001299596d",
@@ -2566,7 +2619,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,180",
       "productImage": "product-images/travel-tin-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle",
+      "productDescriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
+      "productSpecZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
     },
     {
       "id": "64ba7e87453374001af3f1b8:67933ab95600a5000cc24b05",
@@ -2578,7 +2634,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,180",
       "productImage": "product-images/travel-tin-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle",
+      "productDescriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
+      "productSpecZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
     },
     {
       "id": "64ba7e87453374001af3f1b8:67933ab95600a5000cc24b06",
@@ -2590,7 +2649,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$1,180",
       "productImage": "product-images/travel-tin-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle",
+      "productDescriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
+      "productSpecZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
     },
     {
       "id": "64ba7e87453374001af3f1b8:64ba7e878ceb870012995969",
@@ -2602,7 +2664,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,180",
       "productImage": "product-images/travel-tin-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-travel-tin-candle",
+      "productDescriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
+      "productSpecZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6659ae7dd56aa50a2a21aa40",
@@ -2614,7 +2679,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec1c",
@@ -2626,7 +2694,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6a1bd07479a652000af1db2a",
@@ -2638,7 +2709,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec1e",
@@ -2650,7 +2724,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec1d",
@@ -2662,7 +2739,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a0",
@@ -2674,7 +2754,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6659ae7dd56aa50a2a21aa41",
@@ -2686,7 +2769,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a1",
@@ -2698,7 +2784,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6659ae7dd56aa50a2a21aa42",
@@ -2710,7 +2799,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:658038d922f8d0001bde531c",
@@ -2722,7 +2814,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6515813b793d8c000c7bd2c9",
@@ -2734,7 +2829,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a2",
@@ -2746,7 +2844,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:65167b34ff266a31bcab5487",
@@ -2758,7 +2859,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a3",
@@ -2770,7 +2874,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:66a3838b9bcb7e001549b7a5",
@@ -2782,7 +2889,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec1f",
@@ -2794,7 +2904,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6659ae7dd56aa50a2a21aa43",
@@ -2806,7 +2919,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a5",
@@ -2818,7 +2934,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a4",
@@ -2830,7 +2949,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:65167b34ff266a31bcab5488",
@@ -2842,7 +2964,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6659ae7dd56aa50a2a21aa44",
@@ -2854,7 +2979,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:66a3838b9bcb7e001549b7a6",
@@ -2866,7 +2994,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a6",
@@ -2878,7 +3009,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a7",
@@ -2890,7 +3024,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:67933d9d71752800098a3390",
@@ -2902,7 +3039,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec20",
@@ -2914,7 +3054,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:67933d9d71752800098a3391",
@@ -2926,7 +3069,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec21",
@@ -2938,7 +3084,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a8",
@@ -2950,7 +3099,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:67933d9d71752800098a3392",
@@ -2962,7 +3114,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:67933d9d71752800098a3393",
@@ -2974,7 +3129,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6659ae7dd56aa50a2a21aa45",
@@ -2986,7 +3144,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec22",
@@ -2998,7 +3159,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec23",
@@ -3010,7 +3174,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6141cb1792ed0e0023df6ecf:6836c5b8eb763000083eddc8",
@@ -3143,9 +3310,9 @@ window.APFR_INVENTORY_DATA = {
       "price": "NT$2,080",
       "productImage": "product-images/fragrance-candle-old.png",
       "url": "https://www.everydayware.co/products/apotheke-fragrance-glass--jar--candle",
-      "productDescriptionZh": null,
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
       "productSpecZh": "Made in Japan / 內容量 290g / 大豆蠟 / 燃燒時間約 64 小時",
-      "productInfoSource": null
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "5a38c669080f067a67000638:5a38ea3b61646d09d7000200",
@@ -3158,9 +3325,9 @@ window.APFR_INVENTORY_DATA = {
       "price": "NT$2,080",
       "productImage": "product-images/fragrance-candle-old.png",
       "url": "https://www.everydayware.co/products/apotheke-fragrance-glass--jar--candle",
-      "productDescriptionZh": null,
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
       "productSpecZh": "Made in Japan / 內容量 290g / 大豆蠟 / 燃燒時間約 64 小時",
-      "productInfoSource": null
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:64ba81e9bd33e3000f3195a7",
@@ -3172,7 +3339,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6659ac8ef4aca9001822417e",
@@ -3184,7 +3354,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:64ba81e9bd33e3000f3195a8",
@@ -3196,7 +3369,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6443b69bb3aa9d000d4ac465",
@@ -3208,7 +3384,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:67933bf8fb1284000cde5a1d",
@@ -3220,7 +3399,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:67933b9a717528000d8a33a3",
@@ -3232,7 +3414,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:65157bca055c2b000fd86698",
@@ -3244,7 +3429,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:65157bca055c2b000fd86697",
@@ -3256,7 +3444,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:67933b9a717528000d8a33a4",
@@ -3268,7 +3459,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:64ba81e9bd33e3000f3195a9",
@@ -3280,7 +3474,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6659acd9f4aca90018224180",
@@ -3292,7 +3489,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:66a384ed0b4794001ebc0272",
@@ -3304,7 +3504,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6659ad08aa731ac144727a9b",
@@ -3316,7 +3519,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6443b69bb3aa9d000d4ac466",
@@ -3328,7 +3534,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:67933c625600a5000cc24b0a",
@@ -3340,7 +3549,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6443b69bb3aa9d000d4ac467",
@@ -3352,7 +3564,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:67933c625600a5000cc24b0b",
@@ -3364,7 +3579,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6659ad2e29fa4f853fc5ea12",
@@ -3376,7 +3594,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:67933c625600a5000cc24b0c",
@@ -3388,7 +3609,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:67933c625600a5000cc24b0d",
@@ -3400,7 +3624,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:64ba81e9bd33e3000f3195aa",
@@ -3412,7 +3639,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:6443b69bb3aa9d000d4ac468",
@@ -3424,7 +3654,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     },
     {
       "id": "6443b69b496085001498ac1a:64ba81e9bd33e3000f3195ab",
@@ -3436,7 +3669,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,580",
       "productImage": "product-images/fragrance-candle.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-glass-jar-candle",
+      "productDescriptionZh": "使用精挑細選的優質原料，在自家工廠一一手工製作的香氛蠟燭。",
+      "productSpecZh": "Made in Japan / 內容量 190 克 / 大豆蠟 / 燃燒時間約 45 小時",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/fragrance-candle"
     }
   ]
 };
