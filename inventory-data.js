@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-23 09:16",
+  "updatedAt": "2026-06-23 09:32",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -513,25 +513,6 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/room-mist-spray-室內芳香噴霧-tobacco-cedar-1",
       "notesZh": "煙葉 / 雪松 / 檀香 / 柑橘 / 辛香料 / 沈香木 / 肉桂 / 愈創木 / 黑胡椒 / 香根草"
     },
-    "BETWEEN THE SHEETS": {
-      "family": "Fruity",
-      "notes": [
-        "Apple",
-        "Honeysuckle",
-        "Iris",
-        "Jasmine",
-        "Lotus",
-        "Musk",
-        "Water Lily",
-        "Wood"
-      ],
-      "description": "A floral-fruity, feminine fragrance with both a lush and innocent character.",
-      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Between-The-Sheets-1000x1000.webp",
-      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/between-the-sheets/",
-      "descriptionZh": "清新透明，混合著花果香、富有女人味的香氛。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-between-the-sheets-1",
-      "notesZh": "蘋果 / 睡蓮 / 金銀花 / 茉莉花 / 蓮花 / 鳶尾花 / 木 / 麝香"
-    },
     "BURBS": {
       "family": "Woods",
       "notes": [
@@ -656,6 +637,11 @@ window.APFR_INVENTORY_DATA = {
       "notesZh": "鼠尾草 / 橙子 / 葡萄柚 / 玫瑰 / 薰衣草 / 藥草 / 橡苔 / 琥珀 / 黑香豆",
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Oakmossamber-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/oakmoss-amber/"
+    },
+    "BETWEEN THE SHEETS": {
+      "descriptionZh": "清新透明，混合著花果香、富有女人味的香氛。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-between-the-sheets-1",
+      "notesZh": "蘋果 / 睡蓮 / 金銀花 / 茉莉花 / 蓮花 / 鳶尾花 / 木 / 麝香"
     },
     "EARL GREY & GRAPEFRUIT": {
       "descriptionZh": "散發著伯爵茶的香味，佛手柑舒緩的香氣是這個香氛的主要特征。",
