@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-23 20:01",
+  "updatedAt": "2026-06-23 20:16",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
