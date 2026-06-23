@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-23 15:31",
+  "updatedAt": "2026-06-23 15:48",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -144,23 +144,6 @@ window.APFR_INVENTORY_DATA = {
       "descriptionZh": "藍雲杉樹主要生長在北美，被認為是高度抗菌、有助於空氣凈化的樹木。藍雲杉屬松木香調，融合了雪松，松木，案樹，花旗松和柑橘的香氣。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-blue-spruce-1",
       "notesZh": "柑橘 / 花旗松 / 雪松 / 松針 / 尤加利樹"
-    },
-    "DENSE": {
-      "family": "Soft Amber",
-      "notes": [
-        "Cardamom",
-        "Fir Balsam",
-        "Frankincense",
-        "Lemon",
-        "Pine Needles",
-        "Thuja"
-      ],
-      "description": "Deep forests, fog, sap, pine resin, bonfires, and shadow. Dense is a smoky , woody-green scent.",
-      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Dense-1000x1000.webp",
-      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/dense/",
-      "descriptionZh": "以露營於密林深處為主題，營造出霧、樹液、松脂、倒影與篝火相稱的氛圍。這是一種煙熏木質綠調的香味。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-dense-1",
-      "notesZh": "乳香 / 松針 / 香脂冷杉 / 金鐘柏 / 豆蔻 / 檸檬"
     },
     "ENDLESS SUMMER": {
       "family": "Fruity",
@@ -644,6 +627,11 @@ window.APFR_INVENTORY_DATA = {
       "descriptionZh": "清新明亮的鮮花植物香氣，融合了嫩葉的清新和花朵的甜香。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/travel-tin-candle-旅遊罐裝蠟燭-24k-rose-2",
       "notesZh": "玫瑰 / 百合 / 薰衣草 / 橡苔 / 萬壽菊"
+    },
+    "DENSE": {
+      "descriptionZh": "以露營於密林深處為主題，營造出霧、樹液、松脂、倒影與篝火相稱的氛圍。這是一種煙熏木質綠調的香味。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-dense-1",
+      "notesZh": "乳香 / 松針 / 香脂冷杉 / 金鐘柏 / 豆蔻 / 檸檬"
     },
     "LICK ME ALL OVER": {
       "descriptionZh": "迷人的果香系香味。",
