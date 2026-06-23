@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-24 03:47",
+  "updatedAt": "2026-06-24 04:01",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -581,6 +581,25 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-rufus-1",
       "notesZh": "桃子 / 橙花籽 / 香草 / 黑香豆 / 琥珀 / 麝香 / 木"
     },
+    "SUNNY DAYS": {
+      "family": "Floral",
+      "notes": [
+        "Bergamot",
+        "Grapefruit",
+        "Lilly",
+        "Mandarin",
+        "Mimosa",
+        "Narcissus",
+        "Orange",
+        "Plum"
+      ],
+      "description": "Designed to pair wonderfully on a bright, sunny day, this is a refreshing citrus floral scent.",
+      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Sunny-Days-1000x1000.webp",
+      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/sunny-days/",
+      "descriptionZh": "為配合美妙晴朗的艷陽天而生，一款清新的柑橘花香。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-sunny-days-1",
+      "notesZh": "佛手柑 / 橙子 / 葡萄柚 / 柑橘 / 梅子 / 百合 / 水仙 / 含羞草"
+    },
     "BASIL+SAGE+MINT": {
       "family": "Aromatic Fougère",
       "notes": [
@@ -637,11 +656,6 @@ window.APFR_INVENTORY_DATA = {
       "notesZh": "鼠尾草 / 橙子 / 葡萄柚 / 玫瑰 / 薰衣草 / 藥草 / 橡苔 / 琥珀 / 黑香豆",
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Oakmossamber-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/oakmoss-amber/"
-    },
-    "SUNNY DAYS": {
-      "descriptionZh": "為配合美妙晴朗的艷陽天而生，一款清新的柑橘花香。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-sunny-days-1",
-      "notesZh": "佛手柑 / 橙子 / 葡萄柚 / 柑橘 / 梅子 / 百合 / 水仙 / 含羞草"
     },
     "EARL GREY & GRAPEFRUIT": {
       "descriptionZh": "散發著伯爵茶的香味，佛手柑舒緩的香氣是這個香氛的主要特征。",
