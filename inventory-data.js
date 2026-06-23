@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-24 02:17",
+  "updatedAt": "2026-06-24 02:31",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -216,6 +216,23 @@ window.APFR_INVENTORY_DATA = {
       "descriptionZh": "帶有綠調的果香型香味。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-fig-1",
       "notesZh": "葡萄柚 / 橙子 / 萬壽菊 / 無花果 / 印蒿 / 廣藿香 / 雪松木"
+    },
+    "GREEN LIGHT": {
+      "family": "Aromatic Fougère",
+      "notes": [
+        "Bergamot",
+        "Cassis",
+        "Fig leef",
+        "Grapefruit",
+        "Lavender",
+        "Melon"
+      ],
+      "description": "The refreshing scent of Green Light instills a feeling of youth. This blend is based on fougère fragrance blended with fig leaf and blackcurrant.",
+      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Green-Light-1000x1000.webp",
+      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/green-light/",
+      "descriptionZh": "富有青春氣息的香味，以無花果葉和黑加侖混合的香味為基調。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-green-light-1",
+      "notesZh": "佛手柑 / 葡萄柚 / 黑加侖 / 蜜瓜 / 薰衣草 / 無花果葉"
     },
     "HATAYI": {
       "family": "Soft Floral",
@@ -627,11 +644,6 @@ window.APFR_INVENTORY_DATA = {
       "descriptionZh": "清新明亮的鮮花植物香氣，融合了嫩葉的清新和花朵的甜香。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/travel-tin-candle-旅遊罐裝蠟燭-24k-rose-2",
       "notesZh": "玫瑰 / 百合 / 薰衣草 / 橡苔 / 萬壽菊"
-    },
-    "GREEN LIGHT": {
-      "descriptionZh": "富有青春氣息的香味，以無花果葉和黑加侖混合的香味為基調。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-green-light-1",
-      "notesZh": "佛手柑 / 葡萄柚 / 黑加侖 / 蜜瓜 / 薰衣草 / 無花果葉"
     },
     "LICK ME ALL OVER": {
       "descriptionZh": "迷人的果香系香味。",
