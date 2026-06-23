@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-23 22:34",
+  "updatedAt": "2026-06-23 22:46",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -111,6 +111,23 @@ window.APFR_INVENTORY_DATA = {
       "descriptionZh": "富有異國情調的東方木質香氣，根據印度古代藥學論著《 Sushruta 》的記載，沈香木不僅可以作為香料，焚燒過的沈香木還可以當止痛劑使用。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/room-mist-spray-室內芳香噴霧-black-oud-1",
       "notesZh": "沈香木 / 肉桂 / 愈創木 / 黑胡椒 / 香根草"
+    },
+    "BLUE HOUR": {
+      "family": "Floral",
+      "notes": [
+        "Amber",
+        "Black Pepper",
+        "Ginger",
+        "Jasmine",
+        "Lychee",
+        "Musk"
+      ],
+      "description": "The term blue hour refers to the mysterious time just after sunset and just before sunrise where the sky reflects a blue hue. This floral aroma has a refreshing lychee top note with an accent of ginger and pepper.",
+      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Blue-Hour-1000x1000.webp",
+      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/blue-hour/",
+      "descriptionZh": "指日落之後或日出之際，天空反射出微藍色的神秘景象。以荔枝香作為前調點綴，混入生姜和胡椒的香調，調和出清爽的花香型香味。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-blue-hour-1",
+      "notesZh": "荔枝 / 茉莉 / 姜 / 黑胡椒 / 麝香 / 琥珀"
     },
     "BLUE SPRUCE": {
       "family": "Woods",
@@ -480,6 +497,22 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-agharta-1",
       "notesZh": "荳蔻 / 勞丹脂 / 肉桂 / 丁香 / 玫瑰 / 依蘭 / 柏樹 / 琥珀籽 / 香草 / 檀香 / 弗吉尼亞 雪松 / 阿拉斯加雪松"
     },
+    "TOBACCO CEDAR": {
+      "family": "Dry Woods",
+      "notes": [
+        "Cedarwood",
+        "Citrus",
+        "Sandalwood",
+        "Spice",
+        "Tobacco reef"
+      ],
+      "description": "An oriental, woody scent evoking the image of a cigar.",
+      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Tobacco-Cedar-1000x1000.webp",
+      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/tobacco-cedar/",
+      "descriptionZh": "以煙卷的香味為靈感的東方木質香調。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/room-mist-spray-室內芳香噴霧-tobacco-cedar-1",
+      "notesZh": "煙葉 / 雪松 / 檀香 / 柑橘 / 辛香料 / 沈香木 / 肉桂 / 愈創木 / 黑胡椒 / 香根草"
+    },
     "BETWEEN THE SHEETS": {
       "family": "Fruity",
       "notes": [
@@ -612,11 +645,6 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/travel-tin-candle-旅遊罐裝蠟燭-24k-rose-2",
       "notesZh": "玫瑰 / 百合 / 薰衣草 / 橡苔 / 萬壽菊"
     },
-    "BLUE HOUR": {
-      "descriptionZh": "指日落之後或日出之際，天空反射出微藍色的神秘景象。以荔枝香作為前調點綴，混入生姜和胡椒的香調，調和出清爽的花香型香味。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-blue-hour-1",
-      "notesZh": "荔枝 / 茉莉 / 姜 / 黑胡椒 / 麝香 / 琥珀"
-    },
     "LICK ME ALL OVER": {
       "descriptionZh": "迷人的果香系香味。",
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-lick-me-all-over-1",
@@ -628,11 +656,6 @@ window.APFR_INVENTORY_DATA = {
       "notesZh": "鼠尾草 / 橙子 / 葡萄柚 / 玫瑰 / 薰衣草 / 藥草 / 橡苔 / 琥珀 / 黑香豆",
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Oakmossamber-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/oakmoss-amber/"
-    },
-    "TOBACCO CEDAR": {
-      "descriptionZh": "以煙卷的香味為靈感的東方木質香調。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/room-mist-spray-室內芳香噴霧-tobacco-cedar-1",
-      "notesZh": "煙葉 / 雪松 / 檀香 / 柑橘 / 辛香料 / 沈香木 / 肉桂 / 愈創木 / 黑胡椒 / 香根草"
     },
     "EARL GREY & GRAPEFRUIT": {
       "descriptionZh": "散發著伯爵茶的香味，佛手柑舒緩的香氣是這個香氛的主要特征。",
