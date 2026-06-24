@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-24 16:16",
+  "updatedAt": "2026-06-24 16:31",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -3110,7 +3110,7 @@ window.APFR_INVENTORY_DATA = {
       "productTitle": "APFR 空間噴霧",
       "scent": "TEARS RAIN",
       "rawScent": "TEARS RAIN",
-      "quantity": 2,
+      "quantity": 1,
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
