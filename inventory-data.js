@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-24 09:47",
+  "updatedAt": "2026-06-24 10:01",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -347,6 +347,23 @@ window.APFR_INVENTORY_DATA = {
       "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-nur-jahan",
       "notesZh": "五月玫瑰 / 康乃馨 / 柑橘皮 / 保加利亞玫瑰 / 紫羅蘭 / 廣藿香 / 檀香 / 琥珀 / 麝香"
     },
+    "POSSESS": {
+      "family": "Dry Woods",
+      "notes": [
+        "Clove",
+        "Ginger",
+        "Jasmine",
+        "Nutmeg",
+        "Sandalwood",
+        "Vanilla"
+      ],
+      "description": "This spicy and woody scent blends sandalwood, nutmeg, clove, ginger, jasmine, and vanilla.",
+      "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Possess-1000x1000.webp",
+      "url": "https://www.apothekefragrance.jp/en/notes/fragrance/possess/",
+      "descriptionZh": "利用檀香木、肉豆蔻、丁香、姜、茉莉和香草調合出獨特的辛辣木質香調，令人難忘。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-possess-1",
+      "notesZh": "肉豆蔻 / 檀香木 / 丁香 / 姜 / 茉莉花 / 香草"
+    },
     "PARADISE": {
       "family": "Green",
       "notes": [
@@ -639,11 +656,6 @@ window.APFR_INVENTORY_DATA = {
       "notesZh": "鼠尾草 / 橙子 / 葡萄柚 / 玫瑰 / 薰衣草 / 藥草 / 橡苔 / 琥珀 / 黑香豆",
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Oakmossamber-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/oakmoss-amber/"
-    },
-    "POSSESS": {
-      "descriptionZh": "利用檀香木、肉豆蔻、丁香、姜、茉莉和香草調合出獨特的辛辣木質香調，令人難忘。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-possess-1",
-      "notesZh": "肉豆蔻 / 檀香木 / 丁香 / 姜 / 茉莉花 / 香草"
     },
     "EARL GREY & GRAPEFRUIT": {
       "descriptionZh": "散發著伯爵茶的香味，佛手柑舒緩的香氣是這個香氛的主要特征。",
