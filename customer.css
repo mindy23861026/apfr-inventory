@@ -172,6 +172,7 @@ p {
 .index-button {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   gap: 12px;
   border: 0;
   border-bottom: 1px solid var(--line);
@@ -181,6 +182,23 @@ p {
   letter-spacing: 0.06em;
   padding: 13px 0;
   text-align: left;
+}
+
+.index-copy {
+  display: grid;
+  gap: 4px;
+}
+
+.index-copy strong {
+  display: block;
+}
+
+.index-copy small {
+  color: var(--muted);
+  font-size: 0.67rem;
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
 }
 
 .index-button span {

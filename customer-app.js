@@ -74,6 +74,20 @@ const PRODUCT_DISPLAY_ORDER = [
   "洗手露",
 ];
 const productOrder = new Map(PRODUCT_DISPLAY_ORDER.map((label, index) => [label, index]));
+const PRODUCT_ENGLISH_LABELS = {
+  "衣櫥香氛吊卡": "Closet Tag",
+  線香: "Incense Sticks",
+  "盒裝塔香": "Incense Cones",
+  "旅遊罐裝蠟燭": "Travel Tin Candle",
+  "玻璃罐裝蠟燭": "Glass Jar Candle",
+  "玻璃罐裝蠟燭 舊包裝": "Glass Jar Candle / Old Package",
+  "空間噴霧": "Room Mist Spray",
+  "室內擴香": "Reed Diffuser",
+  "室內擴香 舊包裝": "Reed Diffuser / Old Package",
+  "燃燒專用精油": "Fragrance Oil",
+  "燃燒專用精油 舊包裝": "Fragrance Oil / Old Package",
+  "洗手露": "Hand Wash",
+};
 
 const customerEls = {
   customerGrid: document.querySelector("#customerGrid"),
@@ -112,6 +126,10 @@ function productInfoFor(label) {
       item.productLabel === label &&
       (item.productDescriptionZh || item.productSpecZh),
   );
+}
+
+function productEnglishLabel(label) {
+  return PRODUCT_ENGLISH_LABELS[label] || "";
 }
 
 function sortText(a, b) {
@@ -169,7 +187,11 @@ function renderIndex() {
     button.className = "index-button";
     button.classList.toggle("active", customerState.selected === value);
     button.type = "button";
-    button.innerHTML = `<strong>${value}</strong><span>${availableCount}</span>`;
+    const labelMarkup =
+      customerState.view === "product"
+        ? `<span class="index-copy"><strong>${value}</strong><small>${productEnglishLabel(value)}</small></span>`
+        : `<strong>${value}</strong>`;
+    button.innerHTML = `${labelMarkup}<span>${availableCount}</span>`;
     button.addEventListener("click", () => {
       customerState.selected = customerState.selected === value ? "" : value;
       renderCustomerPage();
