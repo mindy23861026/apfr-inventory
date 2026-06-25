@@ -1,5 +1,5 @@
 window.APFR_INVENTORY_DATA = {
-  "updatedAt": "2026-06-25 08:01",
+  "updatedAt": "2026-06-25 08:16",
   "sourceCount": 12,
   "scentInfo": {
     "ENTWINED": {
@@ -37,8 +37,8 @@ window.APFR_INVENTORY_DATA = {
       "description": "An ambery-woody fragrance inspired by Morocco, the land where the sun sets. Warm oud and rich rose blend with sensual musk and spicy cinnamon. Ancient sandalwood and sacred frankincense add depth, while the refreshing nuance of mint tea evokes the sacred and enchanting bukhoor drifting through souks and mosques.",
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Maghreb-Bukhoor-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/maghreb-bukhoor/",
-      "descriptionZh": "充滿異國情調的東方木香調。靈感來自摩洛哥的北非大地（Maghreb Bukhoor在阿拉伯語中指太陽下山的地方）。溫暖的沈香木、濃郁的玫瑰、麝香和辛辣的肉桂，最後與傳統檀香、神聖的乳香混合，加上薄荷茶的點綴，讓人仿佛置身中東集市和清真寺的迷人香氣之中。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/hand-wash-洗手露-maghreb-bukhoor",
+      "descriptionZh": "充滿異國情調的東方木香調。靈感來自摩洛哥的北非大地（ Maghreb Bukhoor 在阿拉伯語中指太陽下山的地方）。溫暖的沈香木、濃郁的玫瑰、麝香和辛辣的肉桂，最後與傳統檀香、神聖的乳香混合，加上薄荷茶的點綴，讓人仿佛置身中東集市和清真寺的迷人香氣之中。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/room-mist-spray-室內芳香噴霧-maghreb-bukhoor-1",
       "notesZh": "沈香木 / 乳香 / 肉桂 / 薄荷 / 錦緞玫瑰 / 五月玫瑰 / 麝香 / 檀香木"
     },
     "WHITE TEA": {
@@ -93,7 +93,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Avenue-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/avenue/",
       "descriptionZh": "以活躍於大都會的精英為創作藍圖的辛辣木質香調。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-avenue-1",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-avenue",
       "notesZh": "紫羅蘭 / 生姜 / 西柚 / 橘子 / 羅勒 / 胡椒薄荷 / 肉蔻 / 雪松 / 琥珀 / 麝香 / 山羊皮革"
     },
     "BLACK OUD": {
@@ -108,8 +108,8 @@ window.APFR_INVENTORY_DATA = {
       "description": "Black Oud is a woody amber fragrance with exotic tones. According to the Sushruta, an ancient Indian pharmaceutical treatise, the smoke of agarwood can be applied as perfume. Burned agarwood was also used as an analgesic for wounds.",
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Black-oud-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/black-oud/",
-      "descriptionZh": "富有異國情調的東方木質香氣，根據印度古代藥學論著《Sushruta》的記載，沈香木不僅可以作為香料，焚燒過的沈香木還可以當止痛劑使用。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-cones-塔香-black-oud",
+      "descriptionZh": "富有異國情調的東方木質香氣，根據印度古代藥學論著《 Sushruta 》的記載，沈香木不僅可以作為香料，焚燒過的沈香木還可以當止痛劑使用。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/room-mist-spray-室內芳香噴霧-black-oud-1",
       "notesZh": "沈香木 / 肉桂 / 愈創木 / 黑胡椒 / 香根草"
     },
     "BLUE HOUR": {
@@ -126,7 +126,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Blue-Hour-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/blue-hour/",
       "descriptionZh": "指日落之後或日出之際，天空反射出微藍色的神秘景象。以荔枝香作為前調點綴，混入生姜和胡椒的香調，調和出清爽的花香型香味。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-blue-hour-1",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-blue-hour-1",
       "notesZh": "荔枝 / 茉莉 / 姜 / 黑胡椒 / 麝香 / 琥珀"
     },
     "BLUE SPRUCE": {
@@ -142,7 +142,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Blue-Spruce-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/blue-spruce/",
       "descriptionZh": "藍雲杉樹主要生長在北美，被認為是高度抗菌、有助於空氣凈化的樹木。藍雲杉屬松木香調，融合了雪松，松木，案樹，花旗松和柑橘的香氣。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-blue-spruce-1",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-blue-spruce-1",
       "notesZh": "柑橘 / 花旗松 / 雪松 / 松針 / 尤加利樹"
     },
     "DENSE": {
@@ -159,7 +159,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Dense-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/dense/",
       "descriptionZh": "以露營於密林深處為主題，營造出霧、樹液、松脂、倒影與篝火相稱的氛圍。這是一種煙熏木質綠調的香味。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-cone-塔香-dense",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-dense-1",
       "notesZh": "乳香 / 松針 / 香脂冷杉 / 金鐘柏 / 豆蔻 / 檸檬"
     },
     "ENDLESS SUMMER": {
@@ -178,7 +178,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Endless-Summer-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/endless-summer/",
       "descriptionZh": "果香型，草莓、荔枝與茉莉花香順滑的混合在一起... 原來夏日總是常相伴。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-endless-summer-1",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-endless-summer-1",
       "notesZh": "荔枝 / 李子 / 梨 / 草莓 / 含羞草 / 茉莉花 / 琥珀 / 柚木"
     },
     "ECHO": {
@@ -214,7 +214,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Fig-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/fig/",
       "descriptionZh": "帶有綠調的果香型香味。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-cone-塔香-fig",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-fig-1",
       "notesZh": "葡萄柚 / 橙子 / 萬壽菊 / 無花果 / 印蒿 / 廣藿香 / 雪松木"
     },
     "GREEN LIGHT": {
@@ -231,7 +231,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Green-Light-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/green-light/",
       "descriptionZh": "富有青春氣息的香味，以無花果葉和黑加侖混合的香味為基調。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-green-light-1",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-green-light-1",
       "notesZh": "佛手柑 / 葡萄柚 / 黑加侖 / 蜜瓜 / 薰衣草 / 無花果葉"
     },
     "HATAYI": {
@@ -266,7 +266,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Lavender-Chamomile-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/lavender-chamomile/",
       "descriptionZh": "提取意大利洋甘菊醇厚甜度的混合物。在自然療法的啟迪下，將薰衣草與藥用植物調合，突出案樹和洋甘菊的果味，並在基礎上加入雪松木以營造出整體和諧的氣味。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-lavender-chamomile-1",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-lavender-chamomile-1",
       "notesZh": "洋甘菊 / 尤加利 / 薰衣草 / 橙 / 雪松"
     },
     "MOSS SWAMP": {
@@ -284,7 +284,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Moss-Swamp-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/moss-swamp/",
       "descriptionZh": "擁有橡苔、琥珀、雪松等木質香氛的穩重，以及柏樹的清爽感。 由無花果葉的溫和甜味作為前調，再到深遠綠系氣質的蔓延開來。 讓人聯想到在森林的綠意盎然下，來自大自然沁人心脾的舒適。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/fragrance-oil-燃燒專用精油-moss-swamp-1",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-moss-swamp-1",
       "notesZh": "琥珀 / 廣藿香 / 雪松 / 橡苔 / 白松香 / 黑胡椒 / 無花果葉 / 柏樹"
     },
     "MYSTIC VOYAGE": {
@@ -304,7 +304,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Mystic-Voyage-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/mystic-voyage/",
       "descriptionZh": "辛辣木質東方調。 大航海時代，摩鹿加群島被稱為「香料群島」，來自馬六甲、果阿、波斯與紅海的香料在此匯聚。靈感來自當時滿載香料、花卉與木材的貿易航線。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-cone-塔香-mystic-voyage",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-mystic-voyage-1",
       "notesZh": "肉豆蔻 / 藏紅花 / 丁香 / 白胡椒 / 康乃馨 / 玫瑰 / 香草 / 廣藿香 / 木"
     },
     "NEW DAY": {
@@ -324,7 +324,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/New-Day-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/new-day/",
       "descriptionZh": "以木質和花香、麝香作為基調，青椒、生姜香料、苦橙葉、佛手柑和薰衣草，清爽感十足的香味。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-new-day-1",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-new-day-1",
       "notesZh": "青椒 / 生姜 / 佛手柑 / 苦橙 / 薰衣草 / 百合 / 玫瑰 / 檀香 / 麝香"
     },
     "NUR JAHAN": {
@@ -344,7 +344,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2024/05/c1d7226db4f1ebad744badf70ff3674e-1-1000x1000.jpg",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/nur-jahan/",
       "descriptionZh": "努爾賈汗是 17 世紀莫臥兒帝國最強大的皇后。據說她發現了 Rooh Gulab，一種從玫瑰花瓣中提取的最精緻的精油。傳說她把壓碎的玫瑰花瓣放入浴缸中，有一天發現一夜冷卻的水面上有一層油。她將這些水蒸餾成現在著名的玫瑰香水。這款中性、精緻的玫瑰香水是對她的成就和才華的致敬。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-cones-塔香-nur-jahan",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-nur-jahan",
       "notesZh": "五月玫瑰 / 康乃馨 / 柑橘皮 / 保加利亞玫瑰 / 紫羅蘭 / 廣藿香 / 檀香 / 琥珀 / 麝香"
     },
     "POSSESS": {
@@ -361,7 +361,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Possess-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/possess/",
       "descriptionZh": "利用檀香木、肉豆蔻、丁香、姜、茉莉和香草調合出獨特的辛辣木質香調，令人難忘。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-cone-塔香-possess",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-possess-1",
       "notesZh": "肉豆蔻 / 檀香木 / 丁香 / 姜 / 茉莉花 / 香草"
     },
     "PARADISE": {
@@ -379,7 +379,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Paradise-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/paradise/",
       "descriptionZh": "帶有石榴和鼠尾草香氣的綠色果香調。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-paradise-1",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-paradise-1",
       "notesZh": "鼠尾草 / 柑橘 / 石榴 / 紅醋栗 / 茉莉 / 麝香 / 雪松"
     },
     "SUAVIS": {
@@ -394,7 +394,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Suavis-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/suavis/",
       "descriptionZh": "帶有淡淡甜味和清新的泥土花香，令人愉悅，正如其拉丁語的含義——愜意。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-suavis-1",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-suavis-1",
       "notesZh": "仙客來 / 百合 / 麝香 / 雪松"
     },
     "TANNER": {
@@ -413,7 +413,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Tanner-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/tanner/",
       "descriptionZh": "在18世紀的歐洲皮革業，法國南部的格拉斯（Grasse）作為著名的香水生產地，為遮蓋皮制品異味，專門提供一種特殊的香水。Tanner是一款帶有皮革調的中性香味，靈感正是來自那個時期的皮革匠人。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-cone-塔香-tanner",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-tanner-1",
       "notesZh": "皮革 / 樺焦油 / 藏紅花 / 時間 / 乳香 / 茉莉 / 琥珀 /木"
     },
     "TEAKWOOD": {
@@ -432,7 +432,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Teak-Wood-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/teakwood/",
       "descriptionZh": "由生姜、黑胡椒和甜椒等辛辣香調搭配煙草、柚木和檀香等木質香調混合而成。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-teakwood-1",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-teakwood-1",
       "notesZh": "煙草 / 琥珀 / 麝香 / 甜椒 / 黑胡椒 / 柚木 / 廣藿香 / 檀香"
     },
     "TEARS RAIN": {
@@ -452,7 +452,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Tears-Rain-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/tears-rain/",
       "descriptionZh": "以帶有綠系的麝香為基調，採用優雅柔和的花香做點綴，精致感十足的香味。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-tears-rain-1",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-tears-rain-1",
       "notesZh": "白葡萄柚 / 玫瑰 / 康乃馨 / 百合 / 茉莉 / 晚香玉 / 仙客來 / 紫羅蘭 / 檀香"
     },
     "WHITE VETIVER": {
@@ -510,7 +510,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Tobacco-Cedar-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/tobacco-cedar/",
       "descriptionZh": "以煙卷的香味為靈感的東方木質香調。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-cone-塔香-tobacco-cedar",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/room-mist-spray-室內芳香噴霧-tobacco-cedar-1",
       "notesZh": "煙葉 / 雪松 / 檀香 / 柑橘 / 辛香料 / 沈香木 / 肉桂 / 愈創木 / 黑胡椒 / 香根草"
     },
     "BETWEEN THE SHEETS": {
@@ -597,7 +597,7 @@ window.APFR_INVENTORY_DATA = {
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Sunny-Days-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/sunny-days/",
       "descriptionZh": "為配合美妙晴朗的艷陽天而生，一款清新的柑橘花香。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-sunny-days-1",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-sunny-days-1",
       "notesZh": "佛手柑 / 橙子 / 葡萄柚 / 柑橘 / 梅子 / 百合 / 水仙 / 含羞草"
     },
     "BASIL+SAGE+MINT": {
@@ -636,8 +636,8 @@ window.APFR_INVENTORY_DATA = {
       "description": "A floral fruity scent with freshness and purity, from the marine/ozone family.",
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Timeless-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/timeless/",
-      "descriptionZh": "像大海一樣清澈又永恆，經典的水系香調。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-timeless-1",
+      "descriptionZh": "像大海一樣清澈又永恒，經典的水系香調。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-timeless-1",
       "notesZh": "洋甘菊 / 蘋果 / 荔枝 / 柑橘 / 玫瑰 / 李子 / 桃 / 香菜 / 檀香"
     },
     "24K ROSE": {
@@ -647,12 +647,12 @@ window.APFR_INVENTORY_DATA = {
     },
     "LICK ME ALL OVER": {
       "descriptionZh": "迷人的果香系香味。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-sticks-線香-lick-me-all-over-1",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-lick-me-all-over-1",
       "notesZh": "洋甘菊 / 案樹 / 薰衣草 / 橙 / 雪松 / 覆盆子 / 哈密瓜 / 西瓜 / 茉莉 / 紫羅蘭 / 葡萄柚"
     },
     "OAKMOSS & AMBER": {
       "descriptionZh": "帶有柑橘和琥珀味的清新香氣，與橡苔相得益彰。柑橘香作為前調，中調為鼠尾草和薰衣草等草藥調，再到最後由橡苔、琥珀和零陵香豆收尾。仿佛置身於米克諾斯度假村的客廳，俯瞰愛琴海，與微風相伴。",
-      "sourceZh": "https://apothekefragrance.tw/zh/products/incense-cone-塔香-oakmoss-amber",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/reed-diffuser-室內擴香-oakmoss-amber-1",
       "notesZh": "鼠尾草 / 橙子 / 葡萄柚 / 玫瑰 / 薰衣草 / 藥草 / 橡苔 / 琥珀 / 黑香豆",
       "image": "https://www.apothekefragrance.jp/wp/wp-content/uploads/2023/03/Oakmossamber-1000x1000.webp",
       "url": "https://www.apothekefragrance.jp/en/notes/fragrance/oakmoss-amber/"
@@ -677,6 +677,7 @@ window.APFR_INVENTORY_DATA = {
     },
     "LAVENDER": {
       "descriptionZh": "甘甜不膩的花香調，配合草本的清爽。薰衣草以出色的抗菌效果而聞名。英文 Lavender 的詞根起源自拉丁語 LAVARE，有「洗滌」的意思。作為男性經典的 fougere（馥奇調）香調的主要成分，薰衣草突破性別界限，被世人推崇。",
+      "sourceZh": "https://apothekefragrance.tw/zh/products/room-mist-spray-室內芳香噴霧-lavender-1",
       "notesZh": "薰衣草 / 寬葉薰衣草"
     },
     "THE QUIET LIGHT": {
@@ -689,6 +690,11 @@ window.APFR_INVENTORY_DATA = {
       "descriptionZh": "萃取95%的天然成分調和而成的洗手乳，細膩、豐饒的泡沫流過指間，讓雙手保濕的同時，留住APOTHEKE FRAGRANCE為您呈現的上等香氛。",
       "specZh": "Made in Japan / 容量 230mL",
       "sourceZh": "https://apothekefragrance.tw/zh/collections/hand-wash"
+    },
+    "室內擴香": {
+      "descriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "specZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "sourceZh": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     "盒裝塔香": {
       "descriptionZh": "塔香是將香料壓製成錐狀的小香錐。",
@@ -719,6 +725,11 @@ window.APFR_INVENTORY_DATA = {
       "descriptionZh": "在原材料的嚴格挑選下，手工打造的高品質香薰蠟燭。",
       "specZh": "Made in Japan / 內容物 100g / 燃燒時間約 30 小時",
       "sourceZh": "https://apothekefragrance.tw/zh/collections/travel-tin-candle"
+    },
+    "空間噴霧": {
+      "descriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "specZh": "Made in Japan / 容量 100mL",
+      "sourceZh": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     "衣櫥香氛吊卡": {
       "descriptionZh": "本款為紙質型香氛新產品，無論是掛在衣櫃內、毛巾架、門把或入口處等區域，都可以輕鬆享受到 APOTHEKE FRAGRANCE 帶來的療癒和享受。",
@@ -838,7 +849,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:6659af3ed334be001c57d27b",
@@ -850,7 +864,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:64bb7804a70a59000ffa29b1",
@@ -862,7 +879,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:6443c255b3aa9d001c4ac560",
@@ -874,7 +894,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:6443c255b3aa9d001c4ac561",
@@ -886,7 +909,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:64bb7804a70a59000ffa29b2",
@@ -898,7 +924,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:64bb7804a70a59000ffa29b3",
@@ -910,7 +939,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:65157ea30c4052001b26608c",
@@ -922,7 +954,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:6443c255b3aa9d001c4ac562",
@@ -934,7 +969,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:64bb7804a70a59000ffa29b4",
@@ -946,7 +984,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:6443c255b3aa9d001c4ac563",
@@ -958,7 +999,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:64bb7804a70a59000ffa29b5",
@@ -970,7 +1014,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:6791fe9f5deace000a9a6640",
@@ -982,7 +1029,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:64bb7804a70a59000ffa29b6",
@@ -994,7 +1044,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:6443c255b3aa9d001c4ac564",
@@ -1006,7 +1059,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:6443c255b3aa9d001c4ac565",
@@ -1018,7 +1074,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:64bb7804a70a59000ffa29b7",
@@ -1030,7 +1089,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:64bb7804a70a59000ffa29b8",
@@ -1042,7 +1104,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:64bb7804a70a59000ffa29b9",
@@ -1054,7 +1119,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:66a38440cf4220001835f0d9",
@@ -1066,7 +1134,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:6443c255b3aa9d001c4ac566",
@@ -1078,7 +1149,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:6443c255b3aa9d001c4ac567",
@@ -1090,7 +1164,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:6750159c309c600009c112a9",
@@ -1102,7 +1179,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:6443c255b3aa9d001c4ac568",
@@ -1114,7 +1194,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:64bb7804a70a59000ffa29ba",
@@ -1126,7 +1209,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:65d456f2ce42120011ebe8d0",
@@ -1138,7 +1224,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:6a30f736b00e1c0008655ed8",
@@ -1150,7 +1239,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:6443c255b3aa9d001c4ac569",
@@ -1162,7 +1254,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443c25517c27d0014f66fdf:651679630c40520624266050",
@@ -1174,7 +1269,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$2,980",
       "productImage": "product-images/reed-diffuser.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-reed-diffuser",
+      "productDescriptionZh": "無需點燃，利用蘆葦導香棒吸收液態芬芳，並擴散在整個空間中。",
+      "productSpecZh": "Made in Japan / 內容量 230mL / 擴香棒 5 pc / 留香期 5-6 個月",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/reed-diffuser"
     },
     {
       "id": "6443be99df8409001d660ecd:64bb7206b4138a0009eb01fe",
@@ -2581,7 +2679,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec1c",
@@ -2593,7 +2694,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6a1bd07479a652000af1db2a",
@@ -2605,7 +2709,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec1e",
@@ -2617,7 +2724,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec1d",
@@ -2629,7 +2739,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a0",
@@ -2641,7 +2754,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6659ae7dd56aa50a2a21aa41",
@@ -2653,7 +2769,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a1",
@@ -2665,7 +2784,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6659ae7dd56aa50a2a21aa42",
@@ -2677,7 +2799,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:658038d922f8d0001bde531c",
@@ -2689,7 +2814,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6515813b793d8c000c7bd2c9",
@@ -2701,7 +2829,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a2",
@@ -2713,7 +2844,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:65167b34ff266a31bcab5487",
@@ -2725,7 +2859,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a3",
@@ -2737,7 +2874,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:66a3838b9bcb7e001549b7a5",
@@ -2749,7 +2889,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec1f",
@@ -2761,7 +2904,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6659ae7dd56aa50a2a21aa43",
@@ -2773,7 +2919,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a5",
@@ -2785,7 +2934,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a4",
@@ -2797,7 +2949,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:65167b34ff266a31bcab5488",
@@ -2809,7 +2964,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6659ae7dd56aa50a2a21aa44",
@@ -2821,7 +2979,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:66a3838b9bcb7e001549b7a6",
@@ -2833,7 +2994,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a6",
@@ -2845,7 +3009,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a7",
@@ -2857,7 +3024,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:67933d9d71752800098a3390",
@@ -2869,7 +3039,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec20",
@@ -2881,7 +3054,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:67933d9d71752800098a3391",
@@ -2893,7 +3069,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec21",
@@ -2905,7 +3084,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6443c0632c96a7000cbdb2a8",
@@ -2917,7 +3099,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:67933d9d71752800098a3392",
@@ -2929,7 +3114,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:67933d9d71752800098a3393",
@@ -2941,7 +3129,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": true,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:6659ae7dd56aa50a2a21aa45",
@@ -2953,7 +3144,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec22",
@@ -2965,7 +3159,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6443c063c4b71b001d08cef3:64bb73c1bf8dfb001805ec23",
@@ -2977,7 +3174,10 @@ window.APFR_INVENTORY_DATA = {
       "soldOut": false,
       "price": "NT$1,880",
       "productImage": "product-images/room-mist-spray.png",
-      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray"
+      "url": "https://www.everydayware.co/products/apotheke-fragrance-room-mist-spray",
+      "productDescriptionZh": "可以在您的室内空間或裝飾物上噴灑香味，容器是帶有實驗室風味的遮光瓶設計。",
+      "productSpecZh": "Made in Japan / 容量 100mL",
+      "productInfoSource": "https://apothekefragrance.tw/zh/collections/room-mist-spray"
     },
     {
       "id": "6141cb1792ed0e0023df6ecf:6836c5b8eb763000083eddc8",
