@@ -191,6 +191,7 @@ p {
 
 .index-copy strong {
   display: block;
+  color: var(--ink);
 }
 
 .index-copy small {
