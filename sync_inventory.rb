@@ -4,6 +4,7 @@ require "json"
 require "open-uri"
 require "time"
 require "cgi"
+require "timeout"
 
 NOTES_INDEX_URL = "https://www.apothekefragrance.jp/en/notes/"
 EXCLUDED_SCENTS = ["OSMANTHUS"].freeze
@@ -124,6 +125,27 @@ def extract_product(html)
   raise "找不到商品資料" unless raw
 
   JSON.parse(JSON.parse(%("#{raw}")))
+end
+
+def fetch_url(url, encoding: nil, attempts: 3)
+  last_error = nil
+
+  attempts.times do |index|
+    begin
+      content = URI.open(
+        url,
+        "User-Agent" => "Mozilla/5.0",
+        open_timeout: 20,
+        read_timeout: 20
+      ).read
+      return encoding ? content.force_encoding(encoding) : content
+    rescue StandardError => e
+      last_error = e
+      sleep(1.5 * (index + 1)) if index < attempts - 1
+    end
+  end
+
+  raise last_error
 end
 
 def clean_scent(name)
@@ -389,7 +411,7 @@ def fetch_apfr_tw_product_data
 
     url = "#{APFR_TW_BASE_URL}/zh/collections/#{collection}/products.json?limit=250"
     warn "讀取 APFR TW #{label}"
-    products = JSON.parse(URI.open(url, "User-Agent" => "Mozilla/5.0").read).fetch("products", [])
+    products = JSON.parse(fetch_url(url)).fetch("products", [])
 
     first_info = nil
     products.each do |product|
@@ -424,7 +446,7 @@ def fetch_apfr_tw_product_data
 end
 
 def note_links
-  html = URI.open(NOTES_INDEX_URL, "User-Agent" => "Mozilla/5.0").read.force_encoding("UTF-8")
+  html = fetch_url(NOTES_INDEX_URL, encoding: "UTF-8")
   html.scan(%r{<a href="(https://www\.apothekefragrance\.jp/en/notes/fragrance/[^"]+/)">\s*(.*?)\s*</a>}m)
       .map { |url, name| [normalize_scent_key(strip_tags(name)), url] }
       .to_h
@@ -436,7 +458,7 @@ def fetch_scent_info(scent_names)
     url = links[normalize_scent_key(scent)]
     next unless url
 
-    html = URI.open(url, "User-Agent" => "Mozilla/5.0").read.force_encoding("UTF-8")
+    html = fetch_url(url, encoding: "UTF-8")
     family = strip_tags(html[/<div id="family">.*?<dd>(.*?)<\/dd>/m, 1])
     notes_html = html[/<div id="notes">.*?<dd>(.*?)<\/dd>/m, 1].to_s
     notes = notes_html.scan(/<li>(.*?)<\/li>/m).flatten.map { |note| strip_tags(note).sub(/,\z/, "") }
@@ -457,7 +479,7 @@ end
 
 items = PRODUCTS.flat_map do |label, url|
   warn "讀取 #{label}"
-  html = URI.open(url, "User-Agent" => "Mozilla/5.0").read.force_encoding("UTF-8")
+  html = fetch_url(url, encoding: "UTF-8")
   product = extract_product(html)
   variations = product["variations"] || []
   image = OFFICIAL_PRODUCT_IMAGES[label] || product_image(product)
@@ -503,7 +525,7 @@ end
 
 goods = GOODS.map do |good|
   warn "讀取 #{good[:label]}"
-  html = URI.open(good[:url], "User-Agent" => "Mozilla/5.0").read.force_encoding("UTF-8")
+  html = fetch_url(good[:url], encoding: "UTF-8")
   product = extract_product(html)
   variations = product["variations"] || []
   quantity = if variations.empty?
@@ -529,7 +551,12 @@ rescue StandardError => e
 end.compact
 
 warn "讀取 APFR 官方香氣介紹"
-scent_info = fetch_scent_info(items.map { |item| item[:scent] }.uniq)
+scent_info = begin
+  fetch_scent_info(items.map { |item| item[:scent] }.uniq)
+rescue StandardError => e
+  warn "略過 APFR 官方香氣介紹: #{e.message}"
+  {}
+end
 warn "讀取 APFR TW 中文香氣與品項介紹"
 tw_data = fetch_apfr_tw_product_data
 
